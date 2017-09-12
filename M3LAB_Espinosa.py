@@ -28,5 +28,9 @@ def main():
         print('Your grade is: F')
     # TO DO: finish this
 
+
+
 # program start
 main()
+
+input("\n\nPress Enter to Exit")
